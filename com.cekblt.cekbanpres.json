@@ -1,0 +1,84 @@
+{
+ "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 3
+    
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Tips",
+      "image": "file:///android_asset/image/ic_launcher.png"
+
+    },
+    {
+      "category": "Tutorial",
+      "image": "file:///android_asset/image/ic_launcher.png"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "Info BLT UMKM",
+      "image": "file:///android_asset/image/14.jpg",
+      "description": "Info BLT UMKM",
+      "link": "file:///android_asset/guide/guide_6.html"
+    },
+    {
+      "id": 2,
+      "category": "Tutorial",
+      "title": "Cara Cek Daftar Penerima BLT UMKM di BRI",
+      "image": "file:///android_asset/image/1.jpeg",
+      "description": "ara Cek Daftar Penerima BLT UMKM di BRI",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 3,
+      "category": "Tutorial",
+      "title": "Cara Cek Daftar Penerima BLT UMKM di BNI",
+      "image": "file:///android_asset/image/18.jpg",
+      "description": "Cara Cek Daftar Penerima BLT UMKM di BNI",
+      "link": "file:///android_asset/guide/guide_2.html"
+    },
+    {
+      "id": 4,
+      "category": "Tips",
+      "title": "Cara Mencairkan BLT UMKM",
+      "image": "file:///android_asset/image/17.jpg",
+      "description": "Cara Mencairkan BLT UMKM",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+    {
+      "id": 5,
+      "category": "Tutorial",
+      "title": "Cara Daftar BLT UMKM",
+      "image": "file:///android_asset/image/16.jpg",
+      "description": "Cara Daftar BLT UMKM",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "Syarat Daftar BLT UMKM",
+      "image": "file:///android_asset/image/15.jpg",
+      "description": "Syarat Daftar BLT UMKM",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
