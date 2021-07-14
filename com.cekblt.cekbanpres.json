@@ -11,9 +11,9 @@
       "startappid": "206960543",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
-      "unityID":"4215813",
-      "unity_inter":"Inter",
-      "unity_banner":"Banner",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
       "interval": 3
     
     }
