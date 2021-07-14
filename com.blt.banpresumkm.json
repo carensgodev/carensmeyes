@@ -8,12 +8,12 @@
       "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
       "admob_openid": "ca-app-pub-3940256099942544/1033173712",
       "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
-      "startappid": "201669628",
+      "startappid": "206960543",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
+      "unityID":"4215813",
+      "unity_inter":"Inter",
+      "unity_banner":"Banner",
       "interval": 3
     
     }
