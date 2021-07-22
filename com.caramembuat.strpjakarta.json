@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Server Ready",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -22,7 +22,7 @@
 "PENGATURAN_IKLAN_inter" : "UNITY",
 "PENGATURAN_IKLAN_native" : "UNITY",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 2,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "206892752",
 
 "ADMOB_BANNER" : "YOUR_AD_UNIT",
 "ADMOB_INTER" : "YOUR_AD_UNIT",
@@ -51,11 +51,11 @@
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+"APPODEAL_APP_ID" : "2ee968c23bad268aa27a136f541fe70a85ace0dda52d3bfb",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
+"UNITY_BANNER" : "Banner",
+"UNITY_INTERSTITIAL" : "Inter",
+"UNITY_GAME_ID" : "4228395",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
