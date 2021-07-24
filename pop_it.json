@@ -12,9 +12,9 @@
       "fan_banner": "YOUR_PLACEMENT_ID",
       "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
       "mopub_inter": "24534e1901884e398f1253216226017e",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
+      "unityID":"4230167",
+      "unity_inter":"Inter",
+      "unity_banner":"Banner",
       "packagename": "com.puzzle.fidgetpopit"
     
     }
