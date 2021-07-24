@@ -1,23 +1,23 @@
 {
   "Ads": [
   {
-    "select_ads": "FAN",
-    "select_backup_ads": "",
-    "backup_mode": "0",
+    "select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-2979835879401254/3090114186",
     "admob_nativeid": "ca-app-pub-2979835879401254/3065514719",
     "admob_openid": "ca-app-pub-3940256099942544/3419835294x",
-    "interval_intertitial": 2,
+    "interval_intertitial": 5,
     "startappid": "201669628",
     "fan_inter": "YOUR_PLACEMENT_ID",
     "fan_banner_native": "YOUR_PLACEMENT_ID",
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "db4d5e8718b97d78",
-    "applovin_inter": "518cd97722c60b52",
+    "applovin_banner": "a5c6c13232681085",
+    "applovin_inter": "dc23ba6ef3e6c9c7",
     "packagename": "com.blt.banpresumkm"
   }
 ],
