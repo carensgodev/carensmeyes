@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "select_ads": "UNITY",
+      "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-2979835879401254/6593696183",
       "admob_bannerid": "ca-app-pub-2979835879401254/5388425725",
-      "admob_openid": "YOUR_UNIT_AD",
+      "admob_openid": "ca-app-pub-2979835879401254/1149797814",
       "startappid": "201669628",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
