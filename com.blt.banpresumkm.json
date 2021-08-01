@@ -1,7 +1,7 @@
 {
  "Ads": [
     {
-      "select_ads": "STARTAPP",
+      "select_ads": "UNITY",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
@@ -12,7 +12,7 @@
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
       "unityID":"4215813",
-      "unity_inter":"Inter",
+      "unity_inter":"video",
       "unity_banner":"Banner",
       "interval": 2
     
