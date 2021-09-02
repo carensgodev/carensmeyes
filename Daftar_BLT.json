@@ -1,4 +1,4 @@
-{
+175ce229becf1a9e{
   "Ads": [
   {
     "select_ads": "APPLOVIN",
@@ -16,7 +16,7 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "a5c6c13232681085",
+    "applovin_banner": "175ce229becf1a9e",
     "applovin_inter": "bea3aa9d85b9aa69",
     "packagename": "com.blt.banpresumkm"
   }
