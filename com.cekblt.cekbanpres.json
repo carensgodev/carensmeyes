@@ -1,20 +1,20 @@
 {
  "Ads": [
     {
-      "select_ads": "UNITY",
+      "select_ads": "STARTAPP",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
       "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
       "admob_openid": "ca-app-pub-3940256099942544/1033173712",
       "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
-      "startappid": "206960543",
+      "startappid": "208070746",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
       "unityID":"",
       "unity_inter":"",
       "unity_banner":"",
-      "interval": 3
+      "interval": 1
     
     }
   ],
