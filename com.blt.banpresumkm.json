@@ -2,7 +2,7 @@
  "Ads": [
     {
       "select_ads": "APPLOVIN",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": "https:https://play.google.com/store/apps/details?id=com.utang.pinjol.sarwo",
       "admob_interid": "YOUR_AD",
       "admob_bannerid": "YOUR_AD",
